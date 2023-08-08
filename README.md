@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi there 👋, I am Ajaya .
+## Hi there 👋, I am Ajaya .
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 - 😄 Pronouns: He/Him
 - 👷🏻‍♂️ A civil **engineering** student
 - Likes **scripting** as hobby
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **Python** and **C#**
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 <h4 align="left">My Tools and Languages:</h4>  
