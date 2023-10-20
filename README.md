@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 ## Hi there 👋, I am Ajaya .
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-- ♂️ Pronouns: He/Him
+
 - 👷🏻‍♂️ A civil **engineering** student
 - Likes **scripting** as hobby
 - 🌱 I’m currently learning **Python** and **C#**
