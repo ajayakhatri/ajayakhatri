@@ -7,7 +7,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-mrajayakhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrajayakhatri@gmail.com)](mailto:mrajayakhatri@gmail.com)
 <br/>
 
-### I am Ajaya, a dedicated Civil Engineer with a passion for scripting. Currently honing my skills in Python and C#, I love applying my engineering background to creative coding projects.
+<p>I am Ajaya, a dedicated Civil Engineer with a passion for scripting. Currently honing my skills in Python and C#, I love applying my engineering background to creative coding projects.
+</p>
 
 ------
 ```javascript
