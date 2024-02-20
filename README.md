@@ -1,41 +1,44 @@
 
-<!--
-**ajayakhatri/ajayakhatri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+## Hi 👋🏻, I am [Ajaya Khatri. ](https://ajayakhatri.com.np/) 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there 👋, I am Ajaya .
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
+[![Linkedin Badge](https://img.shields.io/badge/-ajayakhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajayakhatri/)](https://www.linkedin.com/in/ajayakhatri/)
+[![Gmail Badge](https://img.shields.io/badge/-mrajayakhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrajayakhatri@gmail.com)](mailto:mrajayakhatri@gmail.com)
+<br/>
 
-- 👷🏻‍♂️ A civil **engineering** student
-- Likes **scripting** as hobby
-- 🌱 I’m currently learning **Python** and **C#**
+### I am Ajaya, a dedicated Civil Engineer with a passion for scripting. Currently honing my skills in Python and C#, I love applying my engineering background to creative coding projects.
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-<h4 align="left">My Tools and Languages:</h4>  
-<p align="left"> 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  
-<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> 
-<img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+------
+```javascript
+const ajaya = {
+  pronouns: "he" | "him",
+  profession: "Civil Engineer",
+  learning: ["Python", "C#"],
+  code: ["Javascript", "Python", "HTML", "CSS", "C#"],
+  tools: ["React", "Django"],
+};
+```
+----
 
-〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
-<h4 align="left">Connect with me:</h4>  
-<p align="left">  
-<a href="https://twitter.com/ajay_a_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ajay_a_" height="30" width="40" /></a>  
-<a href="https://linkedin.com/in/ajaya-khatri-7b9715254" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ajaya-khatri-7b9715254" height="30" width="40" /></a>  
-</p>
+
+<details open>
+<summary><h2>📺 YouTube Video(s)</h2></summary>
+<!-- BEGIN YOUTUBE-CARDS -->
+<a href="https://www.youtube.com/watch?v=fxL4WN_YIY4"><img src="https://ytcards.demolab.com/?id=fxL4WN_YIY4&title=NBC_HelperPlugin+|+ETABS+Plugin+based+on+NBC+105:2020+|+Demo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="NBC_HelperPlugin | ETABS Plugin based on NBC 105:2020 | Demo
+" title="NBC_HelperPlugin | ETABS Plugin based on NBC 105:2020 | Demo
+"></a>
+<!-- END YOUTUBE-CARDS -->
+<br/>
+  <a href="https://www.youtube.com/channel/UCHYjmkXfTYPS18B6vOhnTPA?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
+</details>
+
+<br />
+
+---
+<img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajayakhatri&layout=compact&hide_title=1&card_width=300" alt="Language used in my repos" />
+<br />
+<small>Languages used in my public repos</small>
+
+</div>
+
