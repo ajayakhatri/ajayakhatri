@@ -26,9 +26,11 @@ const ajaya = {
 <details open>
 <summary><h2>📺 YouTube Video(s)</h2></summary>
 <!-- BEGIN YOUTUBE-CARDS -->
-<a href="https://www.youtube.com/watch?v=fxL4WN_YIY4"><img src="https://ytcards.demolab.com/?id=fxL4WN_YIY4&title=NBC_HelperPlugin+|+ETABS+Plugin+based+on+NBC+105:2020+|+Demo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=172" alt="NBC_HelperPlugin | ETABS Plugin based on NBC 105:2020 | Demo
+<a href="https://www.youtube.com/watch?v=fxL4WN_YIY4"><img src="https://ytcards.demolab.com/?id=fxL4WN_YIY4&title=NBC_HelperPlugin+|+ETABS+Plugin+based+on+NBC+105:2020+|+Demo&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=118" alt="NBC_HelperPlugin | ETABS Plugin based on NBC 105:2020 | Demo
 " title="NBC_HelperPlugin | ETABS Plugin based on NBC 105:2020 | Demo
 "></a>
+<a href="https://www.youtube.com/watch?v=q1yYABC7Nis"><img src="https://ytcards.demolab.com/?id=q1yYABC7Nis&title=The+Beam+Calculator+App+-+Capstone+Project+submission+[CS50W]&lang=en&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=298" alt="NBC_HelperPlugin | ETABS Plugin based on NBC 105:2020 | Demo
+" title="The Beam Calculator App - Capstone Project submission [CS50W]"></a>
 <!-- END YOUTUBE-CARDS -->
 <br/>
   <a href="https://www.youtube.com/channel/UCHYjmkXfTYPS18B6vOhnTPA?sub_confirmation=1"><img src="https://custom-icon-badges.demolab.com/badge/-Subscribe-red?style=for-the-badge&logo=video&logoColor=white"/></a>
