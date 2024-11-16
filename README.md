@@ -4,7 +4,7 @@
 ## Hi 👋🏻, I am [Ajaya Khatri. ](https://ajayakhatri.com.np/) 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ajayakhatri-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ajayakhatri/)](https://www.linkedin.com/in/ajayakhatri/)
-[![Gmail Badge](https://img.shields.io/badge/-me@ajayakhatri.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrajayakhatri@gmail.com)](mailto:mrajayakhatri@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-mrajayakhatri@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mrajayakhatri@gmail.com)](mailto:mrajayakhatri@gmail.com)
 <br/>
 
 <p>I am Ajaya, a dedicated Civil Engineer with a passion for scripting. Currently honing my skills in Python and C#, I love applying my engineering background to creative coding projects.
